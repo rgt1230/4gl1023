@@ -51,7 +51,7 @@
           </div>
         </div>
         <div class="input-box address">
-          <label>Address</label>
+          <label>address</label>
           <input type="text" placeholder="Enter street address" required />
           <input type="text" placeholder="Enter street address line 2" required />
           <div class="column">
